@@ -1,6 +1,6 @@
-'use client';
+// 'use client';
 
-import { Result } from "postcss";
+// import { Result } from "postcss";
 
 export default function Contact() {
     async function handleSubmit(e) {

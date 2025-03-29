@@ -16,7 +16,7 @@ export default function AboutPage() {
                     <div className="certif-wrap flex">
                        <Link href={"https://verify.w3schools.com/1ON8YQYYW9"} target="_blank"><Image className="certif_item" src={"/certif/certif_css.png"} alt={"CSS_Cert"} width={200} height={100}></Image></Link> 
                        <Link href={"https://verify.w3schools.com/1OK19WV5QW"} target="_blank"><Image className="certif_item" src={"/certif/certif_html.png"} alt={"HTML_Cert"} width={200} height={100}></Image></Link> 
-                       <Link href={"https://platform.web-academy.com.ua/certificates/fe_54/?course_id=7461&cert-nonce=2eeccc726f"} target="_blank"><Image className="certif_item" src={"/certif/FE_Certificate.png"} alt={"FE_Cert"} width={200} height={100}></Image></Link>
+                       <Image className="certif_item" src={"/certif/FE_Certificate.png"} alt={"FE_Cert"} width={200} height={100}></Image>
                         </div>
                         <div className="post-sec_wrap">
                             <h3 className="font-semibold text-xl mt-5">Post-secondary education</h3>

@@ -8,7 +8,7 @@ export default function Home() {
     <>
     <title>Svitlana Holub</title>
     
-      <div className="main flex justify-around justify-self-center shadow-2xl p-5">
+      <div className="main flex justify-around justify-self-center p-5">
         <Image className="rounded-3xl" src={"/avat.jpg"} alt={"SH_avatar"} width={256} height={200}></Image>
         <div className="w-1/2 mt-[25px]">
           <h2 className="flex justify-self-center p-5 text-2xl font-semibold">Front-End Developer | Web Developer</h2>

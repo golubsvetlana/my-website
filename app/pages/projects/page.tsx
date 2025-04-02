@@ -8,7 +8,7 @@ export default function Portfolio() {
     return (
         <>
             <title>Portfolio</title>
-            <div className="main flex flex-row items-center justify-evenly shadow-2xl p-5">
+            <div className="main flex flex-row items-center justify-evenly p-5">
                 <div className="flex flex-col items-center mt-20">
                     <h2 className="text-2xl font-bold m-5">Projects under constructions</h2>
                     {/* <h3 className="text-2xl">Coming soon</h3> */}

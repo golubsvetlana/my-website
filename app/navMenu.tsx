@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function NavBar() {
   return (
     <>
-      <nav className="flex flex-row mb-10">
+      <nav className="flex shadow-lg flex-row mb-10">
           <ul  className="container mx-auto px-4 py-3 flex justify-start space-x-4">
             <li>
               <Link href="https://www.linkedin.com/in/svitlana-holub-301abb51/" target="_blank">

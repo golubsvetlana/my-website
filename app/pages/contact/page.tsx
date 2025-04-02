@@ -10,7 +10,7 @@ export default function About() {
         <>
             <title>Contact Me</title>
             
-            <div id="contact-form" className="flex flex-row-reverse items-center justify-around mt-10 shadow-2xl p-5">
+            <div id="contact-form" className="flex flex-row-reverse items-center justify-around mt-10 p-5">
                 
                 <Contact />
                 <div>
